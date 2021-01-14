@@ -1,0 +1,29 @@
+#navImg{
+    width: 50%;
+}
+.navElementPosition{
+    padding-right: 30%;
+}
+.creamColor{
+    color: #fabe4c;
+    
+}
+.blueColor{
+    color: #575971;
+    
+}
+.headerFont{
+    font-size: 50px;
+}
+#introImage{
+    width: 80%;
+}
+.buttonFeatures{
+    background-image: #8da724 !important; 
+}
+.cardImgFeatures{
+    width: 80%;
+    height: 60%;
+    background-image: gray;
+    align-items: center;
+}
