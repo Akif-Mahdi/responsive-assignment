@@ -1,8 +1,8 @@
 #navImg{
-    width: 50%;
+    width: 80%;
 }
 .navElementPosition{
-    padding-right: 30%;
+	margin-left: auto;
 }
 .creamColor{
     color: #fabe4c;
@@ -19,7 +19,18 @@
     width: 80%;
 }
 .buttonFeatures{
-    background-image: #8da724 !important; 
+    background-color: #8da724; 
+    width: 150px;
+}
+.buttonFeatures:hover {
+    color: #ffffff;
+    background-color: #358116;
+    border-color: #0ac074;
+    font-weight: 700;
+    
+}
+.buttonImage{
+    width:27%;
 }
 .cardImgFeatures{
     width: 80%;
