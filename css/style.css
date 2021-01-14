@@ -52,7 +52,9 @@
     width: 100%;
 }
 .decorationRight{
-    size: 50%;
+
+    height: 100px;
+    width: 50px;
 }
 .makeInline{
     display: inline;
